@@ -8,7 +8,7 @@ import pandas as pd
 import datetime as dt
 
 #Este es el cambio para mostrar como funciona la rama nueva
-
+#nuevo comentario para sincronizar el github
 app = dash.Dash(
     __name__,
     meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}],
